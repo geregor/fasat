@@ -1,1 +1,1 @@
-wax: accounts_parser.py
+wax: python accounts_parser.py
