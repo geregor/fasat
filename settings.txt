@@ -1,0 +1,12 @@
+user_id: 655630713
+bot_token: 1662493043:AAHXZ4QbTRU7DAIbiZKFRUvtL3DzyCrQ5J8
+timeout: 5
+tokens_notifications: true
+nfts_notifications: true
+cpu_limit: 1000
+net_limit: 1000
+ram_limit: 1000
+out_of_limit_timeout: 3600
+drops_notification_timeout: 3600
+refresh_price: 3600
+low_logging: true
