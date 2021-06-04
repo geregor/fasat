@@ -1,1 +1,1 @@
-run.bat
+wax: accounts_parser.py
